@@ -14,5 +14,7 @@ public class Main {
         System.out.println("Hello world!");
         //新增的功能
         System.out.println("冷冰科技......");
+        //记录生活
+        System.out.println("一天不写代码就心慌....");
     }
 }
