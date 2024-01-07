@@ -16,5 +16,6 @@ public class Main {
         System.out.println("冷冰科技......");
         //记录生活
         System.out.println("一天不写代码就心慌....");
+        System.out.println("远程仓库，ssh推送不了？....");
     }
 }
