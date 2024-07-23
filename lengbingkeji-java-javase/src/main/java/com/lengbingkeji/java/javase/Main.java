@@ -17,5 +17,6 @@ public class Main {
         //记录生活
         System.out.println("一天不写代码就心慌....");
         System.out.println("远程仓库，ssh推送不了？....");
+        System.out.println("nnd，都2024年07月23日了，重新学习Java吧！....");
     }
 }
