@@ -8,5 +8,38 @@
     <artifactId>lengbingkeji-java-javase</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <!-- MySQL 驱动 -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.39</version>
+        </dependency>
+        <dependency>
+            <groupId>com.microsoft.sqlserver</groupId>
+            <artifactId>mssql-jdbc</artifactId>
+            <version>9.4.1.jre8</version>
+        </dependency>
+
+<!--        <dependency>-->
+<!--            <groupId>com.github.haifengl1</groupId>-->
+<!--            <artifactId>smile-opencv</artifactId>-->
+<!--            <version>4.5.1</version>-->
+<!--        </dependency>-->
+        <dependency>
+            <groupId>org.bytedeco</groupId>
+            <artifactId>javacv-platform</artifactId>
+            <version>1.5.6</version>
+        </dependency>
+
+    </dependencies>
+
+    <repositories>
+        <!-- 第三方Maven仓库 -->
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
 
 </project>

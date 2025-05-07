@@ -18,5 +18,6 @@ public class Main {
         System.out.println("一天不写代码就心慌....");
         System.out.println("远程仓库，ssh推送不了？....");
         System.out.println("nnd，都2024年07月23日了，重新学习Java吧！....");
+        System.out.println("tmd，已经2025年05月07日了，放弃吧！....");
     }
 }
